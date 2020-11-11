@@ -26,7 +26,7 @@ module.exports = async ({
   const isMergable = pr.mergeable
 
   if (!isDependabotOwner || !isMergable) {
-    return console.log('Unable to merge', isDependabotOwner, isMergable)
+    return console.log('Unable to merge PR', isDependabotOwner, isMergable)
   }
 
   await github.pulls.createReview({

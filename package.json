@@ -1,21 +1,21 @@
 {
   "name": "github-script-land-dependabot",
   "version": "0.0.1",
-  "description": "",
+  "description": "Auto merge dependabot PRs",
   "main": "index.js",
   "scripts": {
     "test": "standard"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nearform/github-script-land-dependabot.git"
+    "url": "git+https://github.com/salmanm/github-script-land-dependabot.git"
   },
   "author": "Salman Mitha <Salman.Mitha@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nearform/github-script-land-dependabot/issues"
+    "url": "https://github.com/salmanm/github-script-land-dependabot/issues"
   },
-  "homepage": "https://github.com/nearform/github-script-land-dependabot#readme",
+  "homepage": "https://github.com/salmanm/github-script-land-dependabot#readme",
   "devDependencies": {
     "standard": "^16.0.1"
   }
