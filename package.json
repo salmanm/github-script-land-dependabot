@@ -1,0 +1,22 @@
+{
+  "name": "github-script-land-dependabot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearform/github-script-land-dependabot.git"
+  },
+  "author": "Salman Mitha <Salman.Mitha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nearform/github-script-land-dependabot/issues"
+  },
+  "homepage": "https://github.com/nearform/github-script-land-dependabot#readme",
+  "devDependencies": {
+    "standard": "^16.0.1"
+  }
+}
